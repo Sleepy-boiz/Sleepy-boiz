@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: my email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im still in school and like Peggle
+- ⚡ Fun fact: Im still in school and like playing lots of video games
 
 <!---
 Sleepy-boiz/Sleepy-boiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
