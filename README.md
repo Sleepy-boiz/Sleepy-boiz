@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sleepy-boiz
 - 👀 I’m interested in Coding & Video editing
-- 🌱 I’m currently learning JavaScript basics
+- 🌱 I’m currently learning RenPy basics
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: my discord @ Sleepy_boiz <!-- idk if this is correct gotta check latter -->
 - 😄 Pronouns: He/Him
