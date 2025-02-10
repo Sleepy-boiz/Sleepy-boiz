@@ -5,7 +5,7 @@
 - 📫 How to reach me: my discord @ Sleepy_boiz <!-- idk if this is correct gotta check latter -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im still in school and like playing lots of video games
--<a href="https://sleepyboiz.neocities.org/">My website </a>
+-<p><a href="https://sleepyboiz.neocities.org/">My website </a></p>
 
 <!---
 Sleepy-boiz/Sleepy-boiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
